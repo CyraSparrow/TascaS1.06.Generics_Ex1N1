@@ -1,0 +1,1 @@
+# TascaS1.06.Generics_Ex1N1
